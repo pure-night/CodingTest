@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Programmers\Lv1\x만큼 간격이 있는 n개의 숫자.cpp" />
     <ClCompile Include="Programmers\Lv1\달리기 경주.cpp" />
+    <ClCompile Include="Programmers\Lv1\바탕화면 정리.cpp" />
     <ClCompile Include="Programmers\Lv1\추억 점수.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

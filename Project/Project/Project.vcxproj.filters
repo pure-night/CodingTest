@@ -21,9 +21,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Programmers\Lv1\x만큼 간격이 있는 n개의 숫자.cpp">
-      <Filter>소스 파일\Programmers\Lv1</Filter>
-    </ClCompile>
     <ClCompile Include="Programmers\Lv1\달리기 경주.cpp">
       <Filter>소스 파일\Programmers\Lv1</Filter>
     </ClCompile>
@@ -31,6 +28,12 @@
       <Filter>소스 파일\Programmers\Lv1</Filter>
     </ClCompile>
     <ClCompile Include="Programmers\Lv1\바탕화면 정리.cpp">
+      <Filter>소스 파일\Programmers\Lv1</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Lv1\공원 산책.cpp">
+      <Filter>소스 파일\Programmers\Lv1</Filter>
+    </ClCompile>
+    <ClCompile Include="Programmers\Lv1\x만큼 간격이 있는 n개의 숫자.cpp">
       <Filter>소스 파일\Programmers\Lv1</Filter>
     </ClCompile>
   </ItemGroup>

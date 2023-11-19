@@ -5,6 +5,11 @@
 
 using namespace std;
 
+bool wFind(vector<string>, vector<int>, int, char);
+bool eFind(vector<string>, vector<int>, int, char);
+bool sFind(vector<string>, vector<int>, int, char);
+bool nFind(vector<string>, vector<int>, int, char);
+
 vector<int> solution(vector<string> park, vector<string> routes) {
     vector<int> answer{ -1, -1 };
     char dir;

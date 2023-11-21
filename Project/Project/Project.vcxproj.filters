@@ -42,5 +42,8 @@
     <ClCompile Include="Programmers\Lv1\카드 뭉치.cpp">
       <Filter>소스 파일\Programmers\Lv1</Filter>
     </ClCompile>
+    <ClCompile Include="Programmers\Lv1\둘만의 암호.cpp">
+      <Filter>소스 파일\Programmers\Lv1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
